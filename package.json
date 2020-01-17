@@ -12,6 +12,7 @@
     "preset": "react-native"
   },
   "dependencies": {
+    "bootstrap": "*",
     "aws-sdk": "*",
     "dynamodb": "*",
     "@eva-design/eva": "1.0.1",
